@@ -1,2 +1,15 @@
 insert into clientes (id, nombre, apellido, email, create_at)values(1,'Alejandra','Agudelo','agudelo@mail,con','2017-08-28' );
 insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
+insert into clientes (id, nombre, apellido, email, create_at)values(2,'Carlos','Mendez','carlos@mail,con','2020-09-30' );
